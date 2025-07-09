@@ -1,2 +1,2 @@
 # Model-ML-Mining
-Modelo que predece la cantidad de oro extraído del mineral de oro
+Modelo que predice la cantidad de oro extraído del mineral de oro
